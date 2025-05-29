@@ -136,8 +136,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-key
-key.pub
+
 # Spyder project settings
 .spyderproject
 .spyproject
